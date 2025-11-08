@@ -1,7 +1,6 @@
 # Course Code: BIT502
 # Assessment: 1
 # Name: Gabriela Olivera
-# Student ID: 5141369
 
 """======================== BIT502 Assessment 1 ========================"""
 
